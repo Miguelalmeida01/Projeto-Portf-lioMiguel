@@ -58,6 +58,10 @@ This is a personal portfolio project developed with React, Tailwind CSS and Next
 
 
 
+https://github.com/user-attachments/assets/9b42e15f-b457-43e5-9227-a266492153ba
+
+
+
 
 
  
