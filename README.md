@@ -25,13 +25,10 @@ This is a personal portfolio project developed with React, Tailwind CSS and Next
 
 ## How to execute the project
 
-
-## Como Executar o Projeto
-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Miguelalmeida01/ProjetoModelNetflix-Next-React.git
+   git clone https://github.com/Miguelalmeida01/Projeto-Portf-lioMiguel.git
    ```
 
 2. Make sure you have the node installed on your machine:
@@ -64,5 +61,5 @@ This is a personal portfolio project developed with React, Tailwind CSS and Next
 
 
  
-<a href="" style="color:#B0E0E6;" >
+<a href="https://github.com/Miguelalmeida01/Projeto-Portf-lioMiguel?tab=readme-ov-file#project-delivery---portfolio-project" style="color:#B0E0E6;" >
 Back</a> 
