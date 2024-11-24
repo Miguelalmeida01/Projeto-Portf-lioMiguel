@@ -23,7 +23,7 @@ export default function Timeline() {
             </div>
              <div className="timeline-container m-6 mt-24 max-w-4xl rounded-lg p-1 bg-gradient-to-b from-gray-900 from-10% via-gray-800  via-30% to-gray-900 
               to-80%   bg-gray-900">
-                <h2 className="text-3xl text-white mt-14  mb-8 text-center">graduation</h2>
+                <h2 className="text-3xl text-white mt-14  mb-8 text-center">Graduation</h2>
                 <div className="relative mx-6 my-14 border-l-4 border-black">
                     {timelineStudies.map((event, index) => (
                         <div key={index} className="mb-8 ml-6">

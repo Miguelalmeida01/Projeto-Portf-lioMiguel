@@ -41,8 +41,7 @@ export default function indexCarousel2() {
                                                     height={100}
                                                     alt=''
                                                     className='relative object-cover '></Image>
-                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900   text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 text-center  ' /></Link>
+                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent group    text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 text-center group-hover:text-blue-600 ' /></Link>
 
 
                                             </Card>
@@ -59,8 +58,8 @@ export default function indexCarousel2() {
                                                     height={900}
                                                     alt=''
                                                     className='relative object-cover'></Image>
-                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 text-center  ' /></Link>
+                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent  group 
+                                               text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 group-hover:text-blue-600 text-center  ' /></Link>
 
 
                                             </Card>
@@ -77,8 +76,8 @@ export default function indexCarousel2() {
                                                     height={900}
                                                     alt=''
                                                     className='relative object-cover'></Image>
-                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 text-center  ' /></Link>
+                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent group
+                                                     text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 group-hover:text-blue-600 text-center  ' /></Link>
 
 
                                             </Card>
@@ -95,8 +94,8 @@ export default function indexCarousel2() {
                                                     height={900}
                                                     alt=''
                                                     className='relative object-cover'></Image>
-                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 text-center  ' /></Link>
+                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent group  
+                                                    text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 group-hover:text-blue-600 text-center  ' /></Link>
 
                                             </Card>
                                         </div>
@@ -112,8 +111,8 @@ export default function indexCarousel2() {
                                                     height={900}
                                                     alt=''
                                                     className='relative object-cover'></Image>
-                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 text-center  ' /></Link>
+                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent  group
+                                                text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 group-hover:text-blue-600 text-center  ' /></Link>
 
                                             </Card>
                                         </div>
@@ -129,8 +128,8 @@ export default function indexCarousel2() {
                                                     height={900}
                                                     alt=''
                                                     className='relative object-cover'></Image>
-                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 text-center  ' /></Link>
+                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent  group 
+                                                    text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 group-hover:text-blue-600 text-center  ' /></Link>
 
 
                                             </Card>
@@ -149,8 +148,8 @@ export default function indexCarousel2() {
                                                     alt=''
                                                     className='relative object-cover'>
                                                 </Image>
-                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 text-center  ' /></Link>
+                                                <Link href='https://www.linkedin.com/in/miguel-almeida-32aa6b225/' className='absolute flex-row  bg-transparent  group 
+                                                  text-transparent rounded-t-lg border-hidden w-12 h-12 '><LinkedinLogo size={47} className='relative text-blue-800 group-hover:text-blue-600 text-center  ' /></Link>
 
 
                                             </Card>

@@ -42,8 +42,8 @@ export default function indexCarousel() {
                                                     quality={100} 
                                                     alt=''
                                                     className='relative object-fill '></Image>
-                                                <Link href='https://github.com/Miguelalmeida01/React_typeScript-CursoRocketseat' className='absolute flex-row  justify-center bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900   text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className=' text-slate-600 text-center  ' /></Link>
+                                                <Link href='https://github.com/Miguelalmeida01/React_typeScript-CursoRocketseat' className='absolute flex-row  justify-center group  
+                                                    text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className=' text-white group-hover:text-slate-500 text-center  ' /></Link>
 
 
                                             </Card>
@@ -60,8 +60,8 @@ export default function indexCarousel() {
                                                     height={900}
                                                     alt=''
                                                     className='relative object-fill'></Image>
-                                                <Link href='https://github.com/Miguelalmeida01/ProjetoModelNetflix-Next-React' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-slate-600 text-center  ' /></Link>
+                                                <Link href='https://github.com/Miguelalmeida01/ProjetoModelNetflix-Next-React' className='absolute flex-row  bg-transparent group
+                                                text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-white group-hover:text-slate-500 text-center  ' /></Link>
 
 
                                             </Card>
@@ -78,8 +78,8 @@ export default function indexCarousel() {
                                                     height={900}
                                                     alt=''
                                                     className='relative object-fill'></Image>
-                                                <Link href='https://github.com/Miguelalmeida01/ProjetoLogin-Next-React' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-slate-600 text-center  ' /></Link>
+                                                <Link href='https://github.com/Miguelalmeida01/ProjetoLogin-Next-React' className='absolute flex-row  bg-transparent group
+                                                    text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-white group-hover:text-slate-500 text-center  ' /></Link>
 
 
                                             </Card>
@@ -96,8 +96,8 @@ export default function indexCarousel() {
                                                     height={900}
                                                     alt=''
                                                     className='relative object-fill'></Image>
-                                                <Link href='https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-slate-600 text-center  ' /></Link>
+                                                <Link href='https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-' className='absolute flex-row  bg-transparent group
+                                                    text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-white group-hover:text-slate-500 text-center  ' /></Link>
 
                                             </Card>
                                         </div>
@@ -113,8 +113,8 @@ export default function indexCarousel() {
                                                     height={900}
                                                     alt=''
                                                     className='relative object-fill'></Image>
-                                                <Link href='https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-slate-600 text-center  ' /></Link>
+                                                <Link href='https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat' className='absolute flex-row  bg-transparent group
+                                                     text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-white group-hover:text-slate-500 text-center  ' /></Link>
 
                                             </Card>
                                         </div>
@@ -130,8 +130,8 @@ export default function indexCarousel() {
                                                     height={900}
                                                     alt=''
                                                     className='relative object-fill'></Image>
-                                                <Link href='https://github.com/Miguelalmeida01/Tela_login' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-slate-600 text-center  ' /></Link>
+                                                <Link href='https://github.com/Miguelalmeida01/Tela_login' className='absolute flex-row  bg-transparent group
+                                                      text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-white group-hover:text-slate-500 text-center  ' /></Link>
 
 
                                             </Card>
@@ -151,8 +151,8 @@ export default function indexCarousel() {
                                                     alt=''
                                                     className='relative object-fill'>
                                                 </Image>
-                                                <Link href='https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-' className='absolute flex-row  bg-transparent hover:bg-gradient-to-b hover:from-gray-900 hover:from-10% hover:via-gray-800  hover:via-30% hover:to-gray-900 
-                                                  hover:to-80%   hover:bg-gray-900    text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-slate-600 text-center  ' /></Link>
+                                                <Link href='https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-' className='absolute flex-row  bg-transparent group
+                                                  text-transparent rounded-t-lg border-hidden w-12 h-12 '><GithubLogo size={47} className='relative text-white group-hover:text-slate-500 text-center  ' /></Link>
 
 
                                             </Card>
