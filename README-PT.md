@@ -60,6 +60,10 @@ Este é um projeto de portfólio pessoal desenvolvido com React, Tailwind CSS e 
 
 
 
+https://github.com/user-attachments/assets/d1799baa-d136-4943-99ba-119786e29b0d
+
+
+
 
 
 
